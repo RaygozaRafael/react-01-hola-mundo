@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  color: purple;
 }
 
 .App-logo {
@@ -11,6 +12,11 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.Mascota{
+  text-align: center;
+  color: green;
 }
 
 .App-header {
