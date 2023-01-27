@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-01-hola-mundo/static/css/main.f0ce82ea.css",
+    "main.js": "/react-01-hola-mundo/static/js/main.f202e84b.js",
+    "static/media/logo.svg": "/react-01-hola-mundo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-01-hola-mundo/index.html",
+    "main.f0ce82ea.css.map": "/react-01-hola-mundo/static/css/main.f0ce82ea.css.map",
+    "main.f202e84b.js.map": "/react-01-hola-mundo/static/js/main.f202e84b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0ce82ea.css",
+    "static/js/main.f202e84b.js"
+  ]
+}
